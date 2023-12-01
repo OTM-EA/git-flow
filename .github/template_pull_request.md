@@ -18,7 +18,6 @@ OBS: Não é necessário apagar os comentários, eles não aparecerão na descri
 "Durante a análise dos dados da usina, identificamos oportunidades de otimização no processo de X. Esta implementação visa melhorar a eficiência energética, ajustando os parâmetros Y e Z nos modelos de previsão de consumo. A abordagem de modelagem utilizada considera as sazonalidades térmicas e os padrões de consumo histórico."
 Além disso, sinta-se livre para citar fontes como artigos, livros e/ou documentação. -->
 
-
 ### Objetivos
 <!-- Descreva aqui as mudanças que esse PR se destina a fazer, ex:
 "Este PR tem como objetivo otimizar os modelos de previsão de consumo, ajustando os parâmetros X, Y e Z e verificando a integridade dos resultados."  -->
